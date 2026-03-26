@@ -1,0 +1,5 @@
+rembg
+Pillow
+onnxruntime
+argparse
+numpy<2.0

